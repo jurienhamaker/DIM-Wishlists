@@ -200,3 +200,79 @@ dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1546637391
 
 
+// The Mountaintop - God Roll - All Round (god-pve)
+//notes: Velocity MW tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,469285294
+
+
+// The Mountaintop - God Roll - DPS (god-pve)
+//notes: Velocity MW tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop - PVP (god-pvp)
+//notes: Velocity MW tags:god-pvp
+dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,438098033
+dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,1546637391
+
+
+// The Mountaintop (Brave) - God Roll - All Round (god-pve)
+//notes: Velocity MW tags:god-pve
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3523296417,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3523296417,469285294
+
+
+// The Mountaintop (Brave) - God Roll - DPS (god-pve)
+//notes: Velocity MW tags:god-pve
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop (Brave) - PVP (god-pvp)
+//notes: Velocity MW tags:god-pvp
+dimwishlist:item=4043921923&perks=1478423395,2822142346,951095735,438098033
+dimwishlist:item=4043921923&perks=1478423395,2822142346,951095735,1546637391
+
+
+// Midnight Coup - God Roll (god-pve)
+//notes: Range MW tags:god-pve
+dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4049631843
+
+
+// Midnight Coup - God Roll 2 (god-pve)
+//notes: Range MW tags:god-pve
+dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4104185692
+
+
+// Midnight Coup - PVP (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=2763843898&perks=3250034553,3142289711,588594999,47981717
+
+
+// Midnight Coup - PVP 2 (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,2387244414
+
+
+// Midnight Coup (Brave) - God Roll (god-pve)
+//notes: Range MW tags:god-pve
+dimwishlist:item=2499720827&perks=3250034553,106909392,3824105627,4049631843
+
+
+// Midnight Coup (Brave) - God Roll 2 (god-pve)
+//notes: Range MW tags:god-pve
+dimwishlist:item=2499720827&perks=3250034553,106909392,3038247973,4104185692
+
+
+// Midnight Coup (Brave) - PVP (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=2499720827&perks=3250034553,3142289711,588594999,47981717
+
+
+// Midnight Coup (Brave) - PVP 2 (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,2387244414
